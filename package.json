@@ -1,0 +1,19 @@
+{
+  "name": "competitors-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kaiban": "kaiban run",
+    "kaiban:deploy": "kaiban deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kaibanjs/tools": "^0.2.1",
+    "@langchain/community": "^0.3.17",
+    "kaibanjs": "^0.10.0"
+  }
+}
